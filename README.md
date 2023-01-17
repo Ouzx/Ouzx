@@ -1,30 +1,80 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ozx_k" target="blank"><img src="https://img.shields.io/twitter/follow/ozx_k?logo=twitter&style=for-the-badge" alt="ozx_k" /></a> </p>
+<p align="center" >
+<a href="https://twitter.com/ozx_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozx_k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/o%c4%9fuzhan-kandako%c4%9flu-857b45185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/o%c4%9fuzhan-kandako%c4%9flu-857b45185/" height="30" width="40" /></a>
+</p>
+<hr>
 
 - 🔭 I’m currently working on [Inhalt-Cms-Blog](https://github.com/Ouzx/inhalt-cms)
 
 - 🌱 I’m currently learning **React, and full-stack-web development**
 
-- 👨‍💻 All of my projects are available at [ozxk.dev](ozxk.dev)
-
-- 📝 I regularly write articles on [ozxk.dev](ozxk.dev)
+- 👨‍💻 All of my projects will be available at soon. [ozxk.dev](ozxk.dev)
 
 - 💬 Ask me about **React, Java, C#, Python, Unity**
 
 - 📫 How to reach me **oguzhankandakoglu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ozx_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozx_k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/o%c4%9fuzhan-kandako%c4%9flu-857b45185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/o%c4%9fuzhan-kandako%c4%9flu-857b45185/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸s
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouzx&show_icons=true&locale=en&layout=compact" alt="ouzx" /></p>
+### WEB
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouzx&show_icons=true&locale=en" alt="ouzx" /></p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![ReactNative](https://img.shields.io/badge/-React%20Native-%2320232a?style=flat-square&logo=react&logoColor=61dbfb)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouzx&" alt="ouzx" /></p>
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+
+![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=ffffff)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Node.js](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/-Express.js-%23006400?style=flat-square&logo=express&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask&logoColor=ffffff)
+
+![Vite](https://img.shields.io/badge/-Vite-%2361F7CF?style=flat-square&logo=vite&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=ffffff)
+
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-%23005A9C?style=flat-square&logo=sqlite&logoColor=ffffff)
+![OracleDB](https://img.shields.io/badge/-OracleDB-%23E85D00?style=flat-square&logo=oracledb&logoColor=ffffff)
+
+### CI/CD - PAAS
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=ffffff)
+![Render](https://img.shields.io/badge/-Render.com-%230070BA?style=flat-square&logo=render&logoColor=ffffff.)
+
+### Git
+![Github](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
+### ENV - ETC
+![Azure](https://img.shields.io/badge/-Azure-%234B83AF?style=flat-square&logo=azure&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=000)
+![DotNet](https://img.shields.io/badge/-.NET-%230078D7?style=flat-square&logo=.net&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/-Bash-%230078D4?style=flat-square&logo=bash&logoColor=ffffff)
+
+### Languages
+![CSharp](https://img.shields.io/badge/-C%23-%23178600?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff)
+
+### Test
+![Selenium](https://img.shields.io/badge/-Selenium-%232FA44F?style=flat-square&logo=selenium&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=ffffff)
+![Cucumber](https://img.shields.io/badge/-Cucumber-%23004880?style=flat-square&logo=cucumber&logoColor=ffffff)
+![Pytest](https://img.shields.io/badge/-PyTest-%230F7017?style=flat-square&logo=pytest&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-%235779A3?style=flat-square&logo=postman&logoColor)
+
+### Tools
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+
