@@ -77,5 +77,5 @@
 ### Tools
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-## View Count
+## View Counter
 ![Visitor Count](https://profile-counter.glitch.me/{Ouzx}/count.svg)
