@@ -51,6 +51,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Render](https://img.shields.io/badge/-Render.com-%230070BA?style=flat-square&logo=render&logoColor=ffffff.)
+![GithubActions](https://img.shields.io/badge/-GitHub%20Actions-%23181717?style=flat-square&logo=github&logoColor=ffffff)
 
 ### Git
 ![Github](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=ffffff)
