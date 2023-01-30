@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-- 🔭 I’m currently working on [Inhalt-Cms-Blog](https://github.com/Ouzx/inhalt-cms)
+- 🔭 I’m currently working on [Inhalt-Cms-Blog](https://github.com/Ouzx/inhalt-cms) and [My Blog](https://ozxk.dev)
 
 - 🌱 I’m currently learning **React, and full-stack-web development**
 
