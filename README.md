@@ -1,16 +1,12 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="center" >
-<a href="https://twitter.com/ozx_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozx_k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/o%c4%9fuzhan-kandako%c4%9flu-857b45185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/o%c4%9fuzhan-kandako%c4%9flu-857b45185/" height="30" width="40" /></a>
-</p>
 <hr>
 
-- 🔭 I’m currently working on [Inhalt-Cms-Blog](https://github.com/Ouzx/inhalt-cms) and [My Blog](https://ozxk.dev)
+- 🔭 I’m currently working on [Ozxk-Dev](https://ozxk.dev) project.
 
-- 🌱 I’m currently learning **React, and full-stack-web development**
+- 🌱 I’m currently learning **Advanced React, and full-stack-web development**
 
-- 👨‍💻 All of my projects will be available at soon. [ozxk.dev](ozxk.dev)
+- 👨‍💻 All of my projects will be available at [ozxk.dev](ozxk.dev) soon.
 
 - 💬 Ask me about **React, Java, C#, Python, Unity**
 
