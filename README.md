@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced React, and Next.js**
 
-- 👨‍💻 All of my projects will be available at [ozxk.dev](ozxk.dev).
+- 👨‍💻 All of my projects available at [my blog](https://ozxk.dev).
 
 - 💬 Ask me about **React, Java, C#, Python, Unity**
 
