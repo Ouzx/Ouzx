@@ -2,7 +2,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on [Ozxk-Dev](https://ozxk.dev) project.
+- 🔭 I’m currently working on [Ozxk-Dev](https://github.com/Ouzx/ozxkdev) project.
 
 - 🌱 I’m currently learning **Advanced React, and Next.js**
 
