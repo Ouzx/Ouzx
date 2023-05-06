@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Ozxk-Dev](https://ozxk.dev) project.
 
-- 🌱 I’m currently learning **Advanced React, and full-stack-web development**
+- 🌱 I’m currently learning **Advanced React, and Next.js**
 
-- 👨‍💻 All of my projects will be available at [ozxk.dev](ozxk.dev) soon.
+- 👨‍💻 All of my projects will be available at [ozxk.dev](ozxk.dev).
 
 - 💬 Ask me about **React, Java, C#, Python, Unity**
 
