@@ -8,9 +8,6 @@
 
 - 👨‍💻 All of my projects available at [my blog](https://ozxk.dev).
 
-- 💬 Ask me about **React, Java, C#, Python, Unity**
-
-- 📫 How to reach me **oguzhankandakoglu@gmail.com**
 
 ## View Counter
 ![Visitor Count](https://profile-counter.glitch.me/{Ouzx}/count.svg)
