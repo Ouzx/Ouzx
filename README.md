@@ -10,7 +10,7 @@
 - 🎨 Planning to open-source my blog as a customizable template
 - 🤝 Looking to contribute to open source projects
 
-🌟 All projects available at [my blog](your-blog-link), (soon 😅)
+🌟 All projects available at [my blog](https://ozxk.dev), (soon 😅)
 
 ### Coming Soon:
 - 📝 Modern blog platform with the latest tech stack
