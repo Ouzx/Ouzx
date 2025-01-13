@@ -1,13 +1,22 @@
-<h3 align="center">A passionate full-stack developer</h3>
+# 👨‍💻 Just A Tech Explorer
 
-<hr>
+🚀 Building scalable solutions & exploring modern tech stacks
+🔨 Currently crafting @Ozxk-Dev - A modern blog platform (soon to be open-sourced as a template!)
 
-- 🔭 I’m currently working on [Ozxk-Dev](https://github.com/Ouzx/ozxkdev) project.
+### What I'm cooking up:
+- 🛠️ Working on Ozxk-Dev project
+- 📚 Learning Advanced React and Next.js
+- 🌱 Exploring new patterns and architectures in the JS ecosystem
+- 🎨 Planning to open-source my blog as a customizable template
+- 🤝 Looking to contribute to open source projects
 
-- 🌱 I’m currently learning **Advanced React, and Next.js**
+🌟 All projects available at [my blog](your-blog-link), (soon 😅)
 
-- 👨‍💻 All of my projects available at [my blog](https://ozxk.dev).
-
+### Coming Soon:
+- 📝 Modern blog platform with the latest tech stack
+- 🎯 Reusable components and templates
+- 💡 Tech articles and tutorials
+- 🚀 Open source contributions
 
 ## View Counter
 ![Visitor Count](https://profile-counter.glitch.me/{Ouzx}/count.svg)
